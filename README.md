@@ -10,7 +10,7 @@ This course is designed to help you get started with jQuery, the most popular Ja
 
 ## Scenarios
 
-|   Index | Name                                             | Difficulty   | URL                                                                        |
+|   Index | Name                                             | Difficulty   | Practice                                                                   |
 |---------|--------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |       1 | 📖 How jQuery Works                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153752'>Start Lab</a>       |
 |       2 | 📖 jQuery Event Basics                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153789'>Start Lab</a>       |
@@ -20,4 +20,9 @@ This course is designed to help you get started with jQuery, the most popular Ja
 |       6 | 🎯 Building a Voting Application                  | ★★☆          | <a target='_blank' href='https://labex.io/labs/300303'>Start Challenge</a> |
 |       7 | 🎯 Fruit Matching Game with HTML, CSS, JavaScript | ★★☆          | <a target='_blank' href='https://labex.io/labs/300290'>Start Challenge</a> |
 |       8 | 🎯 Interactive Film Collection Web App            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300286'>Start Challenge</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
 
