@@ -23,6 +23,7 @@ This course is designed to help you get started with jQuery, the most popular Ja
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [JavaScript Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [JavaScript Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
 
