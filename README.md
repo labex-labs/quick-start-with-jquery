@@ -1,6 +1,6 @@
 # Quick Start with jQuery
 
-![Quick Start with jQuery](https://cover-creator.labex.io/quick-start-with-jquery.png)
+![Quick Start with jQuery](https://cover-creator.appbot.io/quick-start-with-jquery.png)
 
 This course is designed to help you get started with jQuery, the most popular JavaScript library in use today. We will cover the basics of DOM manipulation with jQuery as well as some more advanced topics such as DOM events and AJAX. 
 
