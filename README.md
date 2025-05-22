@@ -1,8 +1,12 @@
 # Quick Start with jQuery
 
-[![Quick Start with jQuery](https://cover-creator.labex.io/quick-start-with-jquery.png)](https://labex.io/courses/quick-start-with-jquery)
+## Languages
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/quick-start-with-jquery)
+🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+
+[![Quick Start with jQuery](https://cover-creator.labex.io/quick-start-with-jquery.png)](https://labex.io/en/courses/quick-start-with-jquery)
+
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/quick-start-with-jquery)
 
 This course is designed to help you get started with jQuery, the most popular JavaScript library in use today. We will cover the basics of DOM manipulation with jQuery as well as some more advanced topics such as DOM events and AJAX. 
 
@@ -26,11 +30,11 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                       | Difficulty   | Practice                                                                                                 |
-|---------|----------------------------|--------------|----------------------------------------------------------------------------------------------------------|
-|       1 | 📖 How jQuery Works        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jquery-how-jquery-works-153752'>Start Lab</a>        |
-|       2 | 📖 jQuery Event Basics     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jquery-jquery-event-basics-153789'>Start Lab</a>     |
-|       3 | 📖 Introduction to Effects | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jquery-introduction-to-effects-153791'>Start Lab</a> |
+|   Index | Name                       | Difficulty   | Practice                                                                                                    |
+|---------|----------------------------|--------------|-------------------------------------------------------------------------------------------------------------|
+|       1 | 📖 How jQuery Works        | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/jquery-how-jquery-works-153752'>Start Lab</a>        |
+|       2 | 📖 jQuery Event Basics     | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/jquery-jquery-event-basics-153789'>Start Lab</a>     |
+|       3 | 📖 Introduction to Effects | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/jquery-introduction-to-effects-153791'>Start Lab</a> |
 
 ## More
 
