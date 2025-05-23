@@ -32,13 +32,13 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                   | Сложность   | Практика                                                                                                             |
 |----------|----------------------------|-------------|----------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Как работает jQuery     | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/jquery-how-jquery-works-153752'>Начать Лабораторию</a>        |
-|        2 | 📖 Основы событий в jQuery | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/jquery-jquery-event-basics-153789'>Начать Лабораторию</a>     |
-|        3 | 📖 Введение в эффекты      | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/jquery-introduction-to-effects-153791'>Начать Лабораторию</a> |
+|        1 | 📖 Как работает jQuery     | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/jquery-how-jquery-works-153752'>Начать Лабораторию</a>        |
+|        2 | 📖 Основы событий в jQuery | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/jquery-jquery-event-basics-153789'>Начать Лабораторию</a>     |
+|        3 | 📖 Введение в эффекты      | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/jquery-introduction-to-effects-153791'>Начать Лабораторию</a> |
 
 ## Больше
 
-- 🔗 [jQuery Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [jQuery Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
+- 🔗 [jQuery Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [jQuery Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [jQuery Бесплатные туториалы](https://github.com/labex-labs/jquery-free-tutorials)
 
