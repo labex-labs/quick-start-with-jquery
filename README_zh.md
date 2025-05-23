@@ -26,19 +26,19 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
 - 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
 
-了解更多关于 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## 练习
 
 |   序号 | 名称               | 难度   | 练习                                                                                                       |
 |--------|--------------------|--------|------------------------------------------------------------------------------------------------------------|
-|      1 | 📖 jQuery 如何工作 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/jquery-how-jquery-works-153752'>开始实验</a>        |
-|      2 | 📖 jQuery 事件基础 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/jquery-jquery-event-basics-153789'>开始实验</a>     |
-|      3 | 📖 特效入门        | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/jquery-introduction-to-effects-153791'>开始实验</a> |
+|      1 | 📖 jQuery 如何工作 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/jquery-how-jquery-works-153752'>开始实验</a>        |
+|      2 | 📖 jQuery 事件基础 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/jquery-jquery-event-basics-153789'>开始实验</a>     |
+|      3 | 📖 特效入门        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/jquery-introduction-to-effects-153791'>开始实验</a> |
 
 ## 更多
 
-- 🔗 [jQuery Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [jQuery Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
+- 🔗 [jQuery 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [jQuery 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [jQuery 免费教程](https://github.com/labex-labs/jquery-free-tutorials)
 
