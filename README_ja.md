@@ -32,13 +32,13 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                             | 難易度   | 練習                                                                                                         |
 |----------------|----------------------------------|----------|--------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 jQuery はどのように機能するか | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/jquery-how-jquery-works-153752'>ラボを開始</a>        |
-|              2 | 📖 jQuery イベントの基本         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/jquery-jquery-event-basics-153789'>ラボを開始</a>     |
-|              3 | 📖 エフェクトの入門              | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/jquery-introduction-to-effects-153791'>ラボを開始</a> |
+|              1 | 📖 jQuery はどのように機能するか | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jquery-how-jquery-works-153752'>ラボを開始</a>        |
+|              2 | 📖 jQuery イベントの基本         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jquery-jquery-event-basics-153789'>ラボを開始</a>     |
+|              3 | 📖 エフェクトの入門              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/jquery-introduction-to-effects-153791'>ラボを開始</a> |
 
 ## その他
 
-- 🔗 [jQuery Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [jQuery Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
+- 🔗 [jQuery プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [jQuery プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [jQuery 無料チュートリアル](https://github.com/labex-labs/jquery-free-tutorials)
 
