@@ -32,13 +32,13 @@ En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 |   Index | Nom                                   | Difficulté   | Pratique                                                                                                           |
 |---------|---------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Comment jQuery fonctionne          | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/jquery-how-jquery-works-153752'>Commencer le Lab</a>        |
-|       2 | 📖 Fondamentaux des événements jQuery | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/jquery-jquery-event-basics-153789'>Commencer le Lab</a>     |
-|       3 | 📖 Présentation des effets            | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/jquery-introduction-to-effects-153791'>Commencer le Lab</a> |
+|       1 | 📖 Comment jQuery fonctionne          | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jquery-how-jquery-works-153752'>Commencer le Lab</a>        |
+|       2 | 📖 Fondamentaux des événements jQuery | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jquery-jquery-event-basics-153789'>Commencer le Lab</a>     |
+|       3 | 📖 Présentation des effets            | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jquery-introduction-to-effects-153791'>Commencer le Lab</a> |
 
 ## Plus
 
-- 🔗 [jQuery Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [jQuery Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
+- 🔗 [jQuery Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [jQuery Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [jQuery Tutoriels Gratuits](https://github.com/labex-labs/jquery-free-tutorials)
 
