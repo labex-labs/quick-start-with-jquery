@@ -32,13 +32,13 @@ Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 |   Índice | Nombre                               | Dificultad   | Práctica                                                                                                              |
 |----------|--------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Cómo funciona jQuery              | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/jquery-how-jquery-works-153752'>Iniciar Laboratorio</a>        |
-|        2 | 📖 Conceptos básicos de jQuery Event | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/jquery-jquery-event-basics-153789'>Iniciar Laboratorio</a>     |
-|        3 | 📖 Introducción a los Efectos        | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/jquery-introduction-to-effects-153791'>Iniciar Laboratorio</a> |
+|        1 | 📖 Cómo funciona jQuery              | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/jquery-how-jquery-works-153752'>Iniciar Laboratorio</a>        |
+|        2 | 📖 Conceptos básicos de jQuery Event | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/jquery-jquery-event-basics-153789'>Iniciar Laboratorio</a>     |
+|        3 | 📖 Introducción a los Efectos        | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/jquery-introduction-to-effects-153791'>Iniciar Laboratorio</a> |
 
 ## Más
 
-- 🔗 [jQuery Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [jQuery Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
+- 🔗 [jQuery Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [jQuery Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [jQuery Tutoriales Gratuitos](https://github.com/labex-labs/jquery-free-tutorials)
 
