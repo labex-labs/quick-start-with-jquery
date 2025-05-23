@@ -32,13 +32,13 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                         | Schwierigkeit   | Übung                                                                                                           |
 |---------|------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Wie jQuery funktioniert   | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/jquery-how-jquery-works-153752'>Labor Starten</a>        |
-|       2 | 📖 jQuery-Ereignisgrundlagen | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/jquery-jquery-event-basics-153789'>Labor Starten</a>     |
-|       3 | 📖 Einführung in Effekte     | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/jquery-introduction-to-effects-153791'>Labor Starten</a> |
+|       1 | 📖 Wie jQuery funktioniert   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/jquery-how-jquery-works-153752'>Labor Starten</a>        |
+|       2 | 📖 jQuery-Ereignisgrundlagen | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/jquery-jquery-event-basics-153789'>Labor Starten</a>     |
+|       3 | 📖 Einführung in Effekte     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/jquery-introduction-to-effects-153791'>Labor Starten</a> |
 
 ## Mehr
 
-- 🔗 [jQuery Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [jQuery Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
+- 🔗 [jQuery Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [jQuery Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [jQuery Kostenlose Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
 
