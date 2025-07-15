@@ -14,6 +14,14 @@ Ce cours est conçu pour vous aider à commencer avec jQuery, la bibliothèque J
 ![JavaScript](https://img.shields.io/badge/JavaScript-whitesmoke?style=for-the-badge&logo=javascript)
 
 
+## Exercices
+
+|   Index | Nom                                      | Difficulté   | Pratique                                                                                                           |
+|---------|------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------|
+|       1 | 📖 🟢 Comment jQuery fonctionne          | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jquery-how-jquery-works-153752'>Commencer le Lab</a>        |
+|       2 | 📖 🟢 Fondamentaux des événements jQuery | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jquery-jquery-event-basics-153789'>Commencer le Lab</a>     |
+|       3 | 📖 🟢 Présentation des effets            | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jquery-introduction-to-effects-153791'>Commencer le Lab</a> |
+
 ## Environnement
 
 LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo.
@@ -24,17 +32,9 @@ LabEx est une plateforme d'apprentissage interactive et pratique dédiée au cod
 - Des environnements en ligne interactifs dans le navigateur, avec des vérifications automatisées étape par étape.
 - Une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences.
 - Une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires.
-- L'assistant d'apprentissage IA Labby, construit sur ChatGPT, offrant une expérience d'apprentissage conversationnelle.
+- L'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
 
 En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercices
-
-|   Index | Nom                                   | Difficulté   | Pratique                                                                                                           |
-|---------|---------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Comment jQuery fonctionne          | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jquery-how-jquery-works-153752'>Commencer le Lab</a>        |
-|       2 | 📖 Fondamentaux des événements jQuery | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jquery-jquery-event-basics-153789'>Commencer le Lab</a>     |
-|       3 | 📖 Présentation des effets            | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/jquery-introduction-to-effects-153791'>Commencer le Lab</a> |
 
 ## Plus
 
