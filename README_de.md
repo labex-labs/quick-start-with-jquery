@@ -14,6 +14,14 @@ Dieser Kurs soll Ihnen helfen, mit jQuery, der heute am weitesten verbreiteten J
 ![JavaScript](https://img.shields.io/badge/JavaScript-whitesmoke?style=for-the-badge&logo=javascript)
 
 
+## Übungen
+
+|   Index | Name                            | Schwierigkeit   | Übung                                                                                                           |
+|---------|---------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------------|
+|       1 | 📖 🟢 Wie jQuery funktioniert   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/jquery-how-jquery-works-153752'>Labor Starten</a>        |
+|       2 | 📖 🟢 jQuery-Ereignisgrundlagen | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/jquery-jquery-event-basics-153789'>Labor Starten</a>     |
+|       3 | 📖 🟢 Einführung in Effekte     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/jquery-introduction-to-effects-153791'>Labor Starten</a> |
+
 ## Umgebung
 
 LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung.
@@ -24,17 +32,9 @@ LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Tec
 - Interaktive Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen.
 - Eine strukturierte Inhaltsorganisation mit dem Skill-Tree-basierten System.
 - Eine wachsende Lernressource von 30 Skill Trees und über 6.000 Laboren.
-- Der KI-Lernassistent Labby, aufgebaut auf ChatGPT, bietet eine konversationelle Lernerfahrung.
+- Der Lernassistent Labby, aufgebaut auf den neuesten KI-Modellen, bietet eine konversationelle Lernerfahrung.
 
 Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Übungen
-
-|   Index | Name                         | Schwierigkeit   | Übung                                                                                                           |
-|---------|------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Wie jQuery funktioniert   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/jquery-how-jquery-works-153752'>Labor Starten</a>        |
-|       2 | 📖 jQuery-Ereignisgrundlagen | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/jquery-jquery-event-basics-153789'>Labor Starten</a>     |
-|       3 | 📖 Einführung in Effekte     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/jquery-introduction-to-effects-153791'>Labor Starten</a> |
 
 ## Mehr
 
